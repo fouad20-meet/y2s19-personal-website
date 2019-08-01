@@ -96,9 +96,9 @@ input {
   display: block;
   background-color: white; 
   color: black; 
-  border: 2px solid #4CAF50;
+  border: 2px solid lightyellow;
 }
 #button1:hover {
-  background-color: #4CAF50;
+  background-color: lightyellow;
   color: white;
 }
